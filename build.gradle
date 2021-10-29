@@ -66,3 +66,7 @@ flyway {
 	url = 'jdbc:h2:file:/tmp/calculator'
 	user = 'sa'
 }
+
+jacoco {
+    toolVersion = "0.8.7"
+}
