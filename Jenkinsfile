@@ -31,7 +31,7 @@ spec:
                 '''
             }
             post {
-                success {
+                always {
                     publishHTML (target: [ 
                         allowMissing: false,
                         alwaysLinkToLastBuild: false,
