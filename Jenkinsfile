@@ -19,7 +19,7 @@ spec:
         }
     }
     environment {
-        CALCIP = "10.104.52.87"
+        CALCIP = "10.108.229.3"
     }
     stages {
         stage('Acceptance Test') {
